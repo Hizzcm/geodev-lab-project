@@ -1,0 +1,10 @@
+# my project brief 
+
+## The question
+why is lagos island always flooded ?
+
+## TRhe data i need 
+-GRID3 settlement extents 
+-STMR or copernicles elevation 
+-OSM waterways 
+-GRID3 boundries.
